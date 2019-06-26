@@ -4,7 +4,7 @@
 
 <ul>
   <li>
-    This project is about determinign the centrality of nodes in a given graph using three methods,<b>Degree, closeness, and betweeness Centrality</b>.
+    This project is about determining the centrality of nodes of a given graph using three methods,<b>Degree, closeness, and betweeness Centrality</b>.
   </li>
   <li>
     In graph theory and network analysis, indicators of centrality identify the most important vertices within a graph. Applications include identifying the most influential person(s) in a social network, key infrastructure nodes in the Internet or urban networks, and super-spreaders of disease. <i>"Wikipedia"</i>.
