@@ -1,37 +1,26 @@
-<h1>Social Media Analysis</h1>
 
+</ul>
 
-
+<h2>Installation</h2>
 <ul>
   <li>
-    This project is about determining the centrality of nodes of a given graph using three methods,<b>Degree, closeness, and betweeness Centrality</b>.
+    Download the executable file <a href="">From Here</a>
   </li>
   <li>
-    In graph theory and network analysis, indicators of centrality identify the most important vertices within a graph. Applications include identifying the most influential person(s) in a social network, key infrastructure nodes in the Internet or urban networks, and super-spreaders of disease. <i>"Wikipedia"</i>.
+    Open the executable file
+	<img src="" height="" width="">
   </li>
   <li>
-    The project is implemented in two versions, <b>c++(for codeforces submission)</b> and <b>c#(for GUI and virsualization)</b>.
+	Maximize the window, then enter number of nodes, number of edges, and the connecting edges, then choose one of the centrality methods
+	<img src="" height="" width="">
   </li>
 </ul>
 
-<h2>Project Files</h2>
-<ul>
-  <li>
-    <a href="">c++ code</a>
-  </li>
-  <li>
-    <a href="">c# code</a>
-  </li>
-  <li>
-    <a href="">Executable File</a>
-  </li>
-</ul>
-
-<h2>GUI and virsualization</h2>
+<h2>GUI and virsualization Examples</h2>
 <h3>Degree Centrality</h3>
-<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/master/Project's%20Images/degree.PNG" height="300" width="500">
+<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/Visualization/Project's%20Images/d3.PNG" height="300" width="500">
 <h3>Closeness Centrality</h3>
-<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/master/Project's%20Images/clodeness.PNG" height="300" width="500">
+<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/Visualization/Project's%20Images/c2.PNG" height="300" width="500">
 
 <h2>Authors</h2>
 <table style="width:100%">
