@@ -33,12 +33,12 @@
     Download the executable file <a href="">From Here</a>
   </li>
   <li>
-    Click on the executable file
+    Click on the executable file<br><br>
 	<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/Visualization/Project's%20Images/exe.PNG" height="" width="">
   </li>
   <li>
-	Maximize the window, then enter number of nodes, number of edges, and the connecting edges, then choose one of the centrality methods
-	<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/Visualization/Project's%20Images/exe2.PNG" height="" width="">
+	Maximize the window, then enter number of nodes, number of edges, and the connecting edges, then choose one of the centrality methods<br><br>
+	<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/Visualization/Project's%20Images/exe2.PNG" height="250" width="300">
   </li>
 </ul>
 
