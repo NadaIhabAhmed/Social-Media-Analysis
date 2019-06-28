@@ -24,15 +24,30 @@
   </li>
 </ul>
 
+
+
 <h2>Authors</h2>
-<ul>
-  <li>
-    <a href="https://github.com/NadaIhabAhmed">Nada Ihab</a>
-  </li>
-  <li>
-    <a href="https://github.com/shimaa-mahmoud">Shaimaa Mahmoud</a>
-  </li>
-    <li>
-    <a href="https://github.com/fatmaabdelmoniem">Fatma Abdelmoniem</a>
-  </li>
-</ul>
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Github User Name</th> 
+    <th>CodeForces Handle</th>
+  </tr>
+  <tr>
+    <td>Nada Ihab Ahmed Mohamed</td>
+    <td>Shaimaa Mahmoud Mohamed</td>
+    <td>Fatma Abdelmoniem Mohamed</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/NadaIhabAhmed">Nada Ihab</a></td>
+    <td><a href="https://github.com/shimaa-mahmoud">Shaimaa Mahmoud</a></td>
+    <td><a href="https://github.com/fatmaabdelmoniem">Fatma Abdelmoniem</a></td>
+  </tr>
+  <tr>
+    <td>NadaIhab</td>
+    <td>shimaa_mahmoud01</td>
+    <td>batootabdo72</td>
+  </tr>
+</table>
+
+CodeForces Team's Handle Name: Autumn
