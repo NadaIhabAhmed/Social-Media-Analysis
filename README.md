@@ -1,4 +1,30 @@
+<h1>Social Media Analysis</h1>
 
+
+
+<ul>
+  <li>
+    This project is about determining the centrality of nodes of a given graph using three methods,<b>Degree, closeness, and betweeness Centrality</b>.
+  </li>
+  <li>
+    In graph theory and network analysis, indicators of centrality identify the most important vertices within a graph. Applications include identifying the most influential person(s) in a social network, key infrastructure nodes in the Internet or urban networks, and super-spreaders of disease. <i>"Wikipedia"</i>.
+  </li>
+  <li>
+    The project is implemented in two versions, <b>c++(for codeforces submission)</b> and <b>c#(for GUI and virsualization)</b>.
+  </li>
+</ul>
+
+<h2>Project Files</h2>
+<ul>
+  <li>
+    <a href="">C++ code</a>
+  </li>
+  <li>
+    <a href="">C# code</a>
+  </li>
+  <li>
+    <a href="">Executable File</a>
+  </li>
 </ul>
 
 <h2>Installation</h2>
@@ -7,12 +33,12 @@
     Download the executable file <a href="">From Here</a>
   </li>
   <li>
-    Open the executable file
-	<img src="" height="" width="">
+    Click on the executable file<br><br>
+	<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/Visualization/Project's%20Images/exe.PNG" height="" width="">
   </li>
   <li>
-	Maximize the window, then enter number of nodes, number of edges, and the connecting edges, then choose one of the centrality methods
-	<img src="" height="" width="">
+	Maximize the window, then enter number of nodes, number of edges, and the connecting edges, then choose one of the centrality methods<br><br>
+	<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/Visualization/Project's%20Images/exe2.PNG" height="250" width="300">
   </li>
 </ul>
 
