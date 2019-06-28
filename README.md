@@ -10,21 +10,28 @@
     In graph theory and network analysis, indicators of centrality identify the most important vertices within a graph. Applications include identifying the most influential person(s) in a social network, key infrastructure nodes in the Internet or urban networks, and super-spreaders of disease. <i>"Wikipedia"</i>.
   </li>
   <li>
-    The project is implemented in c and c#.
+    The project is implemented in two versions, <b>c++(for codeforces submission)</b> and <b>c#(for GUI and virsualization)</b>.
   </li>
 </ul>
 
 <h2>Project Files</h2>
 <ul>
   <li>
-    <a href="">Codes</a>
+    <a href="">c++ code</a>
+  </li>
+  <li>
+    <a href="">c# code</a>
   </li>
   <li>
     <a href="">Executable File</a>
   </li>
 </ul>
 
-
+<h2>GUI and virsualization</h2>
+<h3>Degree Centrality</h3>
+<img src="" height="300" width="500">
+<h3>Closeness Centrality</h3>
+<img src="" height="300" width="500">
 
 <h2>Authors</h2>
 <table style="width:100%">
