@@ -17,21 +17,36 @@
 <h2>Project Files</h2>
 <ul>
   <li>
-    <a href="">c++ code</a>
+    <a href="">C++ code</a>
   </li>
   <li>
-    <a href="">c# code</a>
+    <a href="">C# code</a>
   </li>
   <li>
     <a href="">Executable File</a>
   </li>
 </ul>
 
-<h2>GUI and virsualization</h2>
+<h2>Installation</h2>
+<ul>
+  <li>
+    Download the executable file <a href="">From Here</a>
+  </li>
+  <li>
+    Click on the executable file
+	<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/Visualization/Project's%20Images/exe.PNG" height="" width="">
+  </li>
+  <li>
+	Maximize the window, then enter number of nodes, number of edges, and the connecting edges, then choose one of the centrality methods
+	<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/Visualization/Project's%20Images/exe2.PNG" height="" width="">
+  </li>
+</ul>
+
+<h2>GUI and virsualization Examples</h2>
 <h3>Degree Centrality</h3>
-<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/master/Project's%20Images/degree.PNG" height="300" width="500">
+<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/Visualization/Project's%20Images/d3.PNG" height="300" width="500">
 <h3>Closeness Centrality</h3>
-<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/master/Project's%20Images/clodeness.PNG" height="300" width="500">
+<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/Visualization/Project's%20Images/c2.PNG" height="300" width="500">
 
 <h2>Authors</h2>
 <table style="width:100%">
