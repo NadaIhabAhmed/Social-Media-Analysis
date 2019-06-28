@@ -29,9 +29,9 @@
 
 <h2>GUI and virsualization</h2>
 <h3>Degree Centrality</h3>
-<img src="" height="300" width="500">
+<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/master/Project's%20Images/degree.PNG" height="300" width="500">
 <h3>Closeness Centrality</h3>
-<img src="" height="300" width="500">
+<img src="https://github.com/NadaIhabAhmed/Social-Media-Analysis/blob/master/Project's%20Images/clodeness.PNG" height="300" width="500">
 
 <h2>Authors</h2>
 <table style="width:100%">
