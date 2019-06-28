@@ -1,0 +1,10 @@
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Data Structure\Project\Project_1_c_sharp\Project_1_c_sharp\bin\Debug\Project_1_c_sharp.exe.config
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Data Structure\Project\Project_1_c_sharp\Project_1_c_sharp\bin\Debug\Project_1_c_sharp.exe
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Data Structure\Project\Project_1_c_sharp\Project_1_c_sharp\bin\Debug\Project_1_c_sharp.pdb
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Data Structure\Project\Project_1_c_sharp\Project_1_c_sharp\obj\Debug\Project_1_c_sharp.csprojAssemblyReference.cache
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Data Structure\Project\Project_1_c_sharp\Project_1_c_sharp\obj\Debug\Project_1_c_sharp.Form1.resources
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Data Structure\Project\Project_1_c_sharp\Project_1_c_sharp\obj\Debug\Project_1_c_sharp.Properties.Resources.resources
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Data Structure\Project\Project_1_c_sharp\Project_1_c_sharp\obj\Debug\Project_1_c_sharp.csproj.GenerateResource.cache
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Data Structure\Project\Project_1_c_sharp\Project_1_c_sharp\obj\Debug\Project_1_c_sharp.csproj.CoreCompileInputs.cache
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Data Structure\Project\Project_1_c_sharp\Project_1_c_sharp\obj\Debug\Project_1_c_sharp.exe
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Data Structure\Project\Project_1_c_sharp\Project_1_c_sharp\obj\Debug\Project_1_c_sharp.pdb
