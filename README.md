@@ -17,20 +17,20 @@
 <h2>Project Files</h2>
 <ul>
   <li>
-    <a href="">C++ code</a>
+    <a href="https://github.com/NadaIhabAhmed/Social-Media-Analysis/tree/master/C%2B%2B%20Codes">C++ code</a>
   </li>
   <li>
-    <a href="">C# code</a>
+    <a href="https://github.com/NadaIhabAhmed/Social-Media-Analysis/tree/Visualization/C%23%20Codes/Project_1_c_sharp">C# code</a>
   </li>
   <li>
-    <a href="">Executable File</a>
+    <a href="https://github.com/NadaIhabAhmed/Social-Media-Analysis/tree/Visualization/Exe%20File">Executable File</a>
   </li>
 </ul>
 
 <h2>Installation</h2>
 <ul>
   <li>
-    Download the executable file <a href="">From Here</a>
+    Download the executable file <a href="https://github.com/NadaIhabAhmed/Social-Media-Analysis/tree/Visualization/Exe%20File">From Here</a>
   </li>
   <li>
     Click on the executable file<br><br>
